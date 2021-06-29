@@ -1,7 +1,7 @@
 #include <iostream>
 void main()
 {
-    int a ,b;
+    int a,b;
     cin>>a>>b;
-    cout<<"sum is"<<a+b;
+    cout<<a-b;
 }
